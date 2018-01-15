@@ -1,6 +1,8 @@
 # YAPI
 YAPI - Yet Another Protobuf Inspector
 
+如果你对制作这个程序的动机感兴趣，且听我[讲个故事](http://blog.gou.cool/2018/01/a-journey-to-failure/)
+
 `YAPI` is a simple Python script to inspect raw [Google Protobuf][] blobs without knowing their accompanying definition.
 
 `YAPI` can parse these data types currently:
