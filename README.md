@@ -1,7 +1,7 @@
 # YAPI
 YAPI - Yet Another Protobuf Inspector
 
-如果你对制作这个程序的动机感兴趣，且听我[讲个故事](http://blog.gou.cool/2018/01/a-journey-to-failure/)
+如果你对制作这个程序的动机感兴趣，且听我[讲个故事](http://blog.gao7.cc/2018/01/a-journey-to-failure/)
 
 `YAPI` is a simple Python script to inspect raw [Google Protobuf][] blobs without knowing their accompanying definition.
 
@@ -56,7 +56,7 @@ python yapi.py file offset length
 
 ## Screenshot
 
-![MainScreenshot](http://s.gou.cool/share/yapi.png)
+![MainScreenshot](http://s.gao7.cc/share/yapi.png)
 
 [Google Protobuf]: https://developers.google.com/protocol-buffers
 [Wire format]: https://developers.google.com/protocol-buffers/docs/encoding
